@@ -25,7 +25,7 @@ public class cursos extends Fragment {
         browser = (WebView) view.findViewById(R.id.webView2);
         WebSettings webSettings = browser.getSettings();
         webSettings.setJavaScriptEnabled(true);
-        browser.loadUrl("http:aulavirtual.google-calusac.com/");
+        browser.loadUrl("http://aulavirtual.eccll-calusac.com");
         return view;
     }
 
