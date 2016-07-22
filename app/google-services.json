@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "601508172859",
+    "firebase_url": "https://calusac-cf1fe.firebaseio.com",
+    "project_id": "calusac-cf1fe",
+    "storage_bucket": "calusac-cf1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601508172859:android:3ccc28386b4e3656",
+        "android_client_info": {
+          "package_name": "edx.pablofranco.org.calusac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601508172859-imrtrhpqf0to2u405pun9pr7k1c2tloe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edx.pablofranco.org.calusac",
+            "certificate_hash": "6770EBFD34093E403D6B8C9477B07F36A863536A"
+          }
+        },
+        {
+          "client_id": "601508172859-vpipeeklt6ivb7uel2hlpk0t39jnp0rg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBevkbIhE8ZW9WO-egtTLiicuo2I3hiQZY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601508172859-vpipeeklt6ivb7uel2hlpk0t39jnp0rg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

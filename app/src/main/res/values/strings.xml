@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Calusac</string>
+
+    <string name="login.message.email">Correo electrónico</string>
+    <string name="login.message.password">Contraseña</string>
+    <string name="login.message.signin">Iniciar sesión</string>
+    <string name="login.message.signup">Crear cuenta</string>
+    <string name="login.notice.message.useradded">Usuario registrado exitosamente</string>
+    <string name="login.error.message.signin">Imposible iniciar sesión %s</string>
+    <string name="login.error.message.signup">Imposible registrar nuevo usuario %s</string>
+    <string name="contactlist.menu.action.signoff">Cerrar sesión</string>
+    <string name="contactlist.title">Contacts</string>
+
+    <string name="logout">Cerrar Sesión</string>
+    <string name="addcontact.message.title">Agregar contacto</string>
+    <string name="addcontact.message.add">Aceptar</string>
+    <string name="addcontact.message.cancel">Cancelar</string>
+    <string name="addcontact.message.contactadded">Contacto agregado exitosamente</string>
+    <string name="addcontact.error.message">Imposible agregar usuario no existente</string>
+    <string name="navigation_drawer_open">Abrir  drawer de nav</string>
+    <string name="navigation_drawer_close">Cerrar drawer de nav</string>
+
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Contraseña muy corta, minimo de 6 caracteres!</string>
+    <string name="auth_failed">Autenticacion fallida,Revisa tus datos o registrate!</string>
+    <string name="change_email">Cambiar email</string>
+    <string name="change_password">Cambiar</string>
+    <string name="send_password_reset_email">Enviar correo de cambio de contraseña</string>
+    <string name="remove_user">Quitar usuario</string>
+    <string name="new_pass">Nueva contraseña</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Registrate en Firebase ahora!</string>
+    <string name="btn_link_to_login">Ya registrado. Iniciar sesion!</string>
+    <string name="title_activity_reset_password">ActividadCambioContraseña</string>
+    <string name="btn_forgot_password">Olvidaste tu contraseña</string>
+    <string name="btn_reset_password">Cambiar Contraseña</string>
+    <string name="btn_back"><![CDATA[<< Atras]]></string>
+    <string name="hint_new_email">Nuevo Correo</string>
+    <string name="btn_change">Cambiar</string>
+    <string name="btn_send">Enviar</string>
+    <string name="btn_remove">Quitar</string>
+    <string name="btn_sign_out">Cerrar sesion</string>
+    <string name="lbl_forgot_password">Olvido su contraseña?</string>
+    <string name="forgot_password_msg">Necesitamos tu id de correo registrado para enviarte instrucciones de cambio de contraseña.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
